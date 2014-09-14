@@ -1,0 +1,3 @@
+[submodule "client/lib/PythonPusherClient"]
+	path = client/lib/PythonPusherClient
+	url = https://github.com/ekulyk/PythonPusherClient.git

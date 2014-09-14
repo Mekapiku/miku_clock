@@ -1,0 +1,3 @@
+module MikuClock
+  VERSION = "0.0.1"
+end
